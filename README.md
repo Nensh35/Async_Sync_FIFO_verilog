@@ -2,7 +2,7 @@
 "Implementation of Synchronous and Asynchronous FIFOs in Verilog, featuring 2-stage synchronizers and Gray code conversion for Clock Domain Crossing (CDC) management."
 
 ## Project Overview
-Implementation of Synchronous and Asynchronous FIFOs in Verilog, designed for reliable data transfer between clock domains.
+Implementation of Synchronous and Asynchronous FIFOs in Verilog, designed for reliable data transfer between different clock domains.
 
 ## Features
     Dual-Clock Support:** Asynchronous FIFO handling for disparate clock frequencies.
